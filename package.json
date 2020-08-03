@@ -1,0 +1,23 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d music-player"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northross/music-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northross/music-player/issues"
+  },
+  "homepage": "https://northross.github.io/music-player",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
