@@ -12,7 +12,7 @@ const cover = document.getElementById('cover');
 const songs = [
   'Ghostwriter - The Lawrence Arms',
   'Kyoto - Phoebe Bridgers',
-  "Miel - I'll Be Holding",
+  "I'll Be Holding - Miel",
 ];
 
 // keep track of songs
